@@ -1,0 +1,1616 @@
+2020-06-18 00:11:22  [ main:3138862 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:11:22  [ Thread-15:3138954 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:11:22  [ Thread-15:3138959 ] - [ INFO ]  register success, new customer:test1
+2020-06-18 00:11:22  [ Thread-15:3138960 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:11:22  [ Thread-15:3138960 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:11:26  [ main:3142738 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:11:26  [ Thread-16:3142740 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:11:26  [ Thread-16:3142741 ] - [ INFO ]  test1 login success
+2020-06-18 00:11:26  [ Thread-16:3142742 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:11:26  [ Thread-16:3142743 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:11:26  [ main:3143474 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:11:26  [ Thread-17:3143475 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:11:26  [ Thread-17:3143475 ] - [ INFO ]  got seller list
+2020-06-18 00:11:26  [ Thread-17:3143475 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:11:26  [ Thread-17:3143475 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:13:33  [ main:3269777 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:13:33  [ Thread-18:3269861 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:13:33  [ Thread-18:3269861 ] - [ INFO ]  test1 login success
+2020-06-18 00:13:33  [ Thread-18:3269862 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:13:33  [ Thread-18:3269862 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:13:34  [ main:3270713 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:13:34  [ Thread-19:3270713 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:13:34  [ Thread-19:3270713 ] - [ INFO ]  got seller list
+2020-06-18 00:13:34  [ Thread-19:3270713 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:13:34  [ Thread-19:3270714 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:13:55  [ main:3291617 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:13:55  [ Thread-20:3291712 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:13:55  [ Thread-20:3291712 ] - [ INFO ]  register success, new seller:test2
+2020-06-18 00:13:55  [ Thread-20:3291713 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:13:55  [ Thread-20:3291713 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:13:59  [ main:3295896 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:13:59  [ Thread-21:3295898 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:13:59  [ Thread-21:3295898 ] - [ INFO ]  test1 login success
+2020-06-18 00:13:59  [ Thread-21:3295898 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:13:59  [ Thread-21:3295898 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:14:00  [ main:3296748 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:14:00  [ Thread-22:3296749 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:14:00  [ Thread-22:3296749 ] - [ INFO ]  got seller list
+2020-06-18 00:14:00  [ Thread-22:3296749 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:14:00  [ Thread-22:3296749 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:19:20  [ main:3617400 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:19:20  [ Thread-23:3617483 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:19:20  [ Thread-23:3617484 ] - [ INFO ]  test1 login success
+2020-06-18 00:19:20  [ Thread-23:3617484 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:19:20  [ Thread-23:3617484 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:19:22  [ main:3618552 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:19:22  [ Thread-24:3618552 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:19:22  [ Thread-24:3618553 ] - [ INFO ]  got seller list
+2020-06-18 00:19:22  [ Thread-24:3618553 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:19:22  [ Thread-24:3618553 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:24:11  [ main:3907964 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:24:11  [ Thread-25:3908048 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:24:11  [ Thread-25:3908049 ] - [ INFO ]  test1 login success
+2020-06-18 00:24:11  [ Thread-25:3908049 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:24:11  [ Thread-25:3908049 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:24:12  [ main:3909070 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:24:12  [ Thread-26:3909070 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:24:12  [ Thread-26:3909070 ] - [ INFO ]  got seller list
+2020-06-18 00:24:12  [ Thread-26:3909071 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:24:12  [ Thread-26:3909071 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:25:44  [ main:4001473 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:25:45  [ Thread-27:4001557 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:25:45  [ Thread-27:4001557 ] - [ INFO ]  test1 login success
+2020-06-18 00:25:45  [ Thread-27:4001558 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:25:45  [ Thread-27:4001558 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:25:45  [ main:4002338 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:25:45  [ Thread-28:4002339 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:25:45  [ Thread-28:4002339 ] - [ INFO ]  got seller list
+2020-06-18 00:25:45  [ Thread-28:4002339 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:25:45  [ Thread-28:4002339 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:29:53  [ main:4250394 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:29:53  [ Thread-29:4250475 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:29:53  [ Thread-29:4250475 ] - [ INFO ]  test1 login success
+2020-06-18 00:29:53  [ Thread-29:4250475 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:29:53  [ Thread-29:4250475 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:29:54  [ main:4251446 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:29:54  [ Thread-30:4251446 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:29:54  [ Thread-30:4251446 ] - [ INFO ]  got seller list
+2020-06-18 00:29:54  [ Thread-30:4251447 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:29:54  [ Thread-30:4251447 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:29:55  [ main:4252344 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:29:55  [ Thread-31:4252344 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:29:55  [ Thread-31:4252345 ] - [ INFO ]  got goods list
+2020-06-18 00:29:55  [ Thread-31:4252345 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:29:55  [ Thread-31:4252345 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:30:22  [ main:4279424 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:30:22  [ Thread-32:4279425 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:30:22  [ Thread-32:4279425 ] - [ INFO ]  got goods list
+2020-06-18 00:30:22  [ Thread-32:4279425 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:30:22  [ Thread-32:4279425 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:30:23  [ main:4280295 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:30:23  [ Thread-33:4280296 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:30:23  [ Thread-33:4280296 ] - [ INFO ]  got goods list
+2020-06-18 00:30:23  [ Thread-33:4280297 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:30:23  [ Thread-33:4280297 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:30:24  [ main:4280783 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:30:24  [ Thread-34:4280784 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:30:24  [ Thread-34:4280784 ] - [ INFO ]  got goods list
+2020-06-18 00:30:24  [ Thread-34:4280785 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:30:24  [ Thread-34:4280785 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:30:24  [ main:4281303 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:30:24  [ Thread-35:4281303 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:30:24  [ Thread-35:4281304 ] - [ INFO ]  got goods list
+2020-06-18 00:30:24  [ Thread-35:4281304 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:30:24  [ Thread-35:4281304 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:33  [ main:4470464 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:33  [ Thread-36:4470546 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:33  [ Thread-36:4470548 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 00:33:33  [ Thread-36:4470548 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:33  [ Thread-36:4470548 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:37  [ main:4473966 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:37  [ Thread-37:4473977 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:37  [ Thread-37:4473977 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 00:33:37  [ Thread-37:4473977 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:37  [ Thread-37:4473977 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:38  [ main:4475326 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:38  [ Thread-38:4475327 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:38  [ Thread-38:4475327 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 00:33:38  [ Thread-38:4475328 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:38  [ Thread-38:4475328 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:41  [ main:4478063 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:41  [ Thread-39:4478064 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:41  [ Thread-39:4478065 ] - [ INFO ]  test2 login success
+2020-06-18 00:33:41  [ Thread-39:4478065 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:41  [ Thread-39:4478065 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:42  [ main:4478751 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:42  [ Thread-40:4478752 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:42  [ Thread-40:4478752 ] - [ INFO ]  got goods list
+2020-06-18 00:33:42  [ Thread-40:4478752 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:42  [ Thread-40:4478752 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:51  [ main:4487806 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:51  [ Thread-41:4487823 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:51  [ Thread-41:4487823 ] - [ INFO ]  add new Goods: test
+2020-06-18 00:33:51  [ Thread-41:4487824 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:51  [ Thread-41:4487824 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:33:51  [ main:4487826 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:33:51  [ Thread-42:4487827 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:33:51  [ Thread-42:4487827 ] - [ INFO ]  got goods list
+2020-06-18 00:33:51  [ Thread-42:4487827 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:33:51  [ Thread-42:4487827 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:00  [ main:4496710 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:00  [ Thread-43:4496711 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:00  [ Thread-43:4496711 ] - [ INFO ]  add new Goods: 233
+2020-06-18 00:34:00  [ Thread-43:4496711 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:00  [ Thread-43:4496711 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:00  [ main:4496712 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:00  [ Thread-44:4496713 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:00  [ Thread-44:4496713 ] - [ INFO ]  got goods list
+2020-06-18 00:34:00  [ Thread-44:4496715 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:00  [ Thread-44:4496715 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:10  [ main:4507220 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:10  [ Thread-45:4507306 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:10  [ Thread-45:4507306 ] - [ INFO ]  test1 login success
+2020-06-18 00:34:10  [ Thread-45:4507307 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:10  [ Thread-45:4507307 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:11  [ main:4508048 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:11  [ Thread-46:4508048 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:11  [ Thread-46:4508048 ] - [ INFO ]  got seller list
+2020-06-18 00:34:11  [ Thread-46:4508049 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:11  [ Thread-46:4508049 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:12  [ main:4509175 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:12  [ Thread-47:4509176 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:12  [ Thread-47:4509176 ] - [ INFO ]  got goods list
+2020-06-18 00:34:12  [ Thread-47:4509176 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:12  [ Thread-47:4509177 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:12  [ main:4509542 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:12  [ Thread-48:4509543 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:12  [ Thread-48:4509543 ] - [ INFO ]  got goods list
+2020-06-18 00:34:12  [ Thread-48:4509543 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:12  [ Thread-48:4509544 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:13  [ main:4509999 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:13  [ Thread-49:4510000 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:13  [ Thread-49:4510000 ] - [ INFO ]  got goods list
+2020-06-18 00:34:13  [ Thread-49:4510000 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:13  [ Thread-49:4510000 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:13  [ main:4510327 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:13  [ Thread-50:4510327 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:13  [ Thread-50:4510327 ] - [ INFO ]  got goods list
+2020-06-18 00:34:13  [ Thread-50:4510328 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:13  [ Thread-50:4510328 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:18  [ main:4514646 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:18  [ Thread-51:4514646 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:18  [ Thread-51:4514646 ] - [ INFO ]  got goods list
+2020-06-18 00:34:18  [ Thread-51:4514647 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:18  [ Thread-51:4514647 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:18  [ main:4514952 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:18  [ Thread-52:4514952 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:18  [ Thread-52:4514952 ] - [ INFO ]  got goods list
+2020-06-18 00:34:18  [ Thread-52:4514953 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:18  [ Thread-52:4514953 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:34:19  [ main:4516286 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:34:19  [ Thread-53:4516286 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:34:19  [ Thread-53:4516287 ] - [ INFO ]  got goods list
+2020-06-18 00:34:19  [ Thread-53:4516287 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:34:19  [ Thread-53:4516287 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:45:55  [ main:5211952 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:45:55  [ Thread-54:5212038 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:45:55  [ Thread-54:5212038 ] - [ INFO ]  test1 login success
+2020-06-18 00:45:55  [ Thread-54:5212038 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:45:55  [ Thread-54:5212038 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:45:56  [ main:5212987 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:45:56  [ Thread-55:5212988 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:45:56  [ Thread-55:5212988 ] - [ INFO ]  got seller list
+2020-06-18 00:45:56  [ Thread-55:5212988 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:45:56  [ Thread-55:5212988 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:45:58  [ main:5215500 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:45:58  [ Thread-56:5215501 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:45:58  [ Thread-56:5215502 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:46:51  [ main:5268535 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:46:51  [ Thread-57:5268536 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:46:51  [ Thread-57:5268536 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:47:17  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 00:47:44  [ main:26852 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:47:44  [ Thread-0:26943 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:47:44  [ Thread-0:27073 ] - [ INFO ]  register success, new customer:test1
+2020-06-18 00:47:44  [ Thread-0:27083 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:47:44  [ Thread-0:27086 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:47:48  [ main:30384 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:47:48  [ Thread-1:30386 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:47:48  [ Thread-1:30388 ] - [ INFO ]  test1 login success
+2020-06-18 00:47:48  [ Thread-1:30389 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:47:48  [ Thread-1:30389 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:47:48  [ main:31095 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:47:48  [ Thread-2:31096 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:47:48  [ Thread-2:31097 ] - [ INFO ]  got seller list
+2020-06-18 00:47:48  [ Thread-2:31098 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:47:48  [ Thread-2:31098 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:47:51  [ main:33793 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:47:51  [ Thread-3:33794 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:47:51  [ Thread-3:33794 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:06  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 00:49:17  [ main:10982 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:17  [ Thread-0:11065 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:17  [ Thread-0:11178 ] - [ INFO ]  login failed, username not exist
+2020-06-18 00:49:17  [ Thread-0:11189 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:17  [ Thread-0:11189 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:20  [ main:14579 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:20  [ Thread-1:14581 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:20  [ Thread-1:14585 ] - [ INFO ]  register success, new customer:test
+2020-06-18 00:49:20  [ Thread-1:14585 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:20  [ Thread-1:14585 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:23  [ main:17034 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:23  [ Thread-2:17035 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:23  [ Thread-2:17035 ] - [ INFO ]  test login success
+2020-06-18 00:49:23  [ Thread-2:17036 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:23  [ Thread-2:17036 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:23  [ main:17723 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:23  [ Thread-3:17724 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:23  [ Thread-3:17725 ] - [ INFO ]  got seller list
+2020-06-18 00:49:23  [ Thread-3:17725 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:23  [ Thread-3:17725 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:26  [ main:19931 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:26  [ Thread-4:19932 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:26  [ Thread-4:19932 ] - [ INFO ]  user: 0 vip level become VIP1
+2020-06-18 00:49:26  [ Thread-4:19932 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:26  [ Thread-4:19932 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:39  [ main:33458 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:39  [ Thread-5:33548 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:39  [ Thread-5:33548 ] - [ INFO ]  test login success
+2020-06-18 00:49:39  [ Thread-5:33549 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:39  [ Thread-5:33549 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:41  [ main:35038 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:41  [ Thread-6:35038 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:41  [ Thread-6:35038 ] - [ INFO ]  got seller list
+2020-06-18 00:49:41  [ Thread-6:35039 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:41  [ Thread-6:35039 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:43  [ main:37490 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:43  [ Thread-7:37492 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:43  [ Thread-7:37492 ] - [ INFO ]  user: 0 vip level become VIP2
+2020-06-18 00:49:43  [ Thread-7:37493 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:43  [ Thread-7:37493 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 00:49:46  [ main:40515 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 00:49:46  [ Thread-8:40516 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 00:49:46  [ Thread-8:40516 ] - [ INFO ]  user: 0 vip level become NOT
+2020-06-18 00:49:46  [ Thread-8:40516 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 00:49:46  [ Thread-8:40516 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:08:30  [ main:1163800 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:08:30  [ Thread-9:1163886 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:08:30  [ Thread-9:1163886 ] - [ INFO ]  test login success
+2020-06-18 01:08:30  [ Thread-9:1163887 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:08:30  [ Thread-9:1163887 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:08:30  [ main:1164723 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:08:30  [ Thread-10:1164723 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:08:30  [ Thread-10:1164723 ] - [ INFO ]  got seller list
+2020-06-18 01:08:30  [ Thread-10:1164724 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:08:30  [ Thread-10:1164724 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:08:52  [ main:1186423 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:08:52  [ Thread-11:1186510 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:08:52  [ Thread-11:1186511 ] - [ INFO ]  test login success
+2020-06-18 01:08:52  [ Thread-11:1186511 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:08:52  [ Thread-11:1186511 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:08:53  [ main:1187303 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:08:53  [ Thread-12:1187304 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:08:53  [ Thread-12:1187304 ] - [ INFO ]  got seller list
+2020-06-18 01:08:53  [ Thread-12:1187304 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:08:53  [ Thread-12:1187305 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:11:39  [ main:1353099 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:11:39  [ Thread-13:1353183 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:11:39  [ Thread-13:1353184 ] - [ INFO ]  test login success
+2020-06-18 01:11:39  [ Thread-13:1353184 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:11:39  [ Thread-13:1353184 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:11:40  [ main:1353909 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:11:40  [ Thread-14:1353910 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:11:40  [ Thread-14:1353910 ] - [ INFO ]  got seller list
+2020-06-18 01:11:40  [ Thread-14:1353910 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:11:40  [ Thread-14:1353910 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:12:02  [ main:1376115 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:12:02  [ Thread-15:1376202 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:12:02  [ Thread-15:1376202 ] - [ INFO ]  test login success
+2020-06-18 01:12:02  [ Thread-15:1376203 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:12:02  [ Thread-15:1376203 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:12:03  [ main:1376967 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:12:03  [ Thread-16:1376968 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:12:03  [ Thread-16:1376968 ] - [ INFO ]  got seller list
+2020-06-18 01:12:03  [ Thread-16:1376968 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:12:03  [ Thread-16:1376969 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:36  [ main:1469817 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:36  [ Thread-17:1469893 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:36  [ Thread-17:1469896 ] - [ INFO ]  register success, new seller:test2
+2020-06-18 01:13:36  [ Thread-17:1469896 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:36  [ Thread-17:1469896 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:46  [ main:1480161 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:46  [ Thread-18:1480161 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:46  [ Thread-18:1480162 ] - [ INFO ]  register success, new seller:test3
+2020-06-18 01:13:46  [ Thread-18:1480162 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:46  [ Thread-18:1480162 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:51  [ main:1485304 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:51  [ Thread-19:1485306 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:51  [ Thread-19:1485307 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 01:13:51  [ Thread-19:1485307 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:51  [ Thread-19:1485307 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:53  [ main:1486752 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:53  [ Thread-20:1486753 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:53  [ Thread-20:1486753 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 01:13:53  [ Thread-20:1486753 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:53  [ Thread-20:1486753 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:55  [ main:1489112 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:55  [ Thread-21:1489113 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:55  [ Thread-21:1489113 ] - [ INFO ]  test2 login success
+2020-06-18 01:13:55  [ Thread-21:1489113 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:55  [ Thread-21:1489114 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:13:56  [ main:1490089 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:13:56  [ Thread-22:1490090 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:13:56  [ Thread-22:1490091 ] - [ INFO ]  got goods list
+2020-06-18 01:13:56  [ Thread-22:1490093 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:13:56  [ Thread-22:1490093 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:05  [ main:1499425 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:05  [ Thread-23:1499442 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:05  [ Thread-23:1499445 ] - [ INFO ]  add new Goods: test
+2020-06-18 01:14:05  [ Thread-23:1499445 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:05  [ Thread-23:1499445 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:05  [ main:1499447 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:05  [ Thread-24:1499447 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:05  [ Thread-24:1499448 ] - [ INFO ]  got goods list
+2020-06-18 01:14:05  [ Thread-24:1499469 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:05  [ Thread-24:1499469 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:15  [ main:1508833 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:15  [ Thread-25:1508834 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:15  [ Thread-25:1508834 ] - [ INFO ]  add new Goods: test2
+2020-06-18 01:14:15  [ Thread-25:1508834 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:15  [ Thread-25:1508834 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:15  [ main:1508836 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:15  [ Thread-26:1508836 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:15  [ Thread-26:1508836 ] - [ INFO ]  got goods list
+2020-06-18 01:14:15  [ Thread-26:1508836 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:15  [ Thread-26:1508837 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:33  [ main:1527128 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:33  [ Thread-27:1527219 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:33  [ Thread-27:1527220 ] - [ INFO ]  test3 login success
+2020-06-18 01:14:33  [ Thread-27:1527220 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:33  [ Thread-27:1527220 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:34  [ main:1527904 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:34  [ Thread-28:1527905 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:34  [ Thread-28:1527905 ] - [ INFO ]  got goods list
+2020-06-18 01:14:34  [ Thread-28:1527905 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:34  [ Thread-28:1527905 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:43  [ main:1536744 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:43  [ Thread-29:1536760 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:43  [ Thread-29:1536761 ] - [ INFO ]  add new Goods: test
+2020-06-18 01:14:43  [ Thread-29:1536761 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:43  [ Thread-29:1536761 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:43  [ main:1536763 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:43  [ Thread-30:1536764 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:43  [ Thread-30:1536764 ] - [ INFO ]  got goods list
+2020-06-18 01:14:43  [ Thread-30:1536765 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:43  [ Thread-30:1536765 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:49  [ main:1543664 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:49  [ Thread-31:1543664 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:49  [ Thread-31:1543664 ] - [ INFO ]  add new Goods: test2
+2020-06-18 01:14:49  [ Thread-31:1543665 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:49  [ Thread-31:1543665 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:49  [ main:1543667 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:49  [ Thread-32:1543667 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:49  [ Thread-32:1543667 ] - [ INFO ]  got goods list
+2020-06-18 01:14:49  [ Thread-32:1543668 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:49  [ Thread-32:1543668 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:57  [ main:1550857 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:57  [ Thread-33:1550937 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:57  [ Thread-33:1550938 ] - [ INFO ]  login failed, username not exist
+2020-06-18 01:14:57  [ Thread-33:1550938 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:57  [ Thread-33:1550938 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:14:59  [ main:1553536 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:14:59  [ Thread-34:1553537 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:14:59  [ Thread-34:1553538 ] - [ INFO ]  test login success
+2020-06-18 01:14:59  [ Thread-34:1553538 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:14:59  [ Thread-34:1553539 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:15:00  [ main:1554288 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:15:00  [ Thread-35:1554288 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:15:00  [ Thread-35:1554289 ] - [ INFO ]  got seller list
+2020-06-18 01:15:00  [ Thread-35:1554289 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:15:00  [ Thread-35:1554289 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:15:01  [ main:1555137 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:15:01  [ Thread-36:1555137 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:15:01  [ Thread-36:1555138 ] - [ INFO ]  got goods list
+2020-06-18 01:15:01  [ Thread-36:1555138 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:15:01  [ Thread-36:1555138 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:15:01  [ main:1555641 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:15:01  [ Thread-37:1555645 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:15:01  [ Thread-37:1555645 ] - [ INFO ]  got goods list
+2020-06-18 01:15:01  [ Thread-37:1555646 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:15:01  [ Thread-37:1555646 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:15:02  [ main:1556506 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:15:02  [ Thread-38:1556507 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:15:02  [ Thread-38:1556507 ] - [ INFO ]  got goods list
+2020-06-18 01:15:02  [ Thread-38:1556508 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:15:02  [ Thread-38:1556508 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:15:05  [ main:1559073 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:15:05  [ Thread-39:1559074 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:15:05  [ Thread-39:1559074 ] - [ INFO ]  user: 0 vip level become VIP1
+2020-06-18 01:15:05  [ Thread-39:1559074 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:15:05  [ Thread-39:1559074 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:29:18  [ main:2412384 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:29:18  [ Thread-40:2412467 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:29:18  [ Thread-40:2412467 ] - [ INFO ]  test login success
+2020-06-18 01:29:18  [ Thread-40:2412468 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:29:18  [ Thread-40:2412468 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:29:19  [ main:2413170 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:29:19  [ Thread-41:2413171 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:29:19  [ Thread-41:2413171 ] - [ INFO ]  got seller list
+2020-06-18 01:29:19  [ Thread-41:2413171 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:29:19  [ Thread-41:2413172 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:29:20  [ main:2414114 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:29:20  [ Thread-42:2414114 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:29:20  [ Thread-42:2414114 ] - [ INFO ]  got goods list
+2020-06-18 01:29:20  [ Thread-42:2414115 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:29:20  [ Thread-42:2414115 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:29:59  [ main:2453296 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:29:59  [ Thread-43:2453379 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:29:59  [ Thread-43:2453379 ] - [ INFO ]  test login success
+2020-06-18 01:29:59  [ Thread-43:2453380 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:29:59  [ Thread-43:2453380 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:30:00  [ main:2454116 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:30:00  [ Thread-44:2454117 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:30:00  [ Thread-44:2454117 ] - [ INFO ]  got seller list
+2020-06-18 01:30:00  [ Thread-44:2454117 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:30:00  [ Thread-44:2454117 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:30:01  [ main:2454912 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:30:01  [ Thread-45:2454913 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:30:01  [ Thread-45:2454913 ] - [ INFO ]  got goods list
+2020-06-18 01:30:01  [ Thread-45:2454914 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:30:01  [ Thread-45:2454914 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:31:07  [ main:2521229 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:31:07  [ Thread-46:2521308 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:31:07  [ Thread-46:2521308 ] - [ INFO ]  test login success
+2020-06-18 01:31:07  [ Thread-46:2521308 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:31:07  [ Thread-46:2521308 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:31:08  [ main:2522313 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:31:08  [ Thread-47:2522314 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:31:08  [ Thread-47:2522314 ] - [ INFO ]  got seller list
+2020-06-18 01:31:08  [ Thread-47:2522314 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:31:08  [ Thread-47:2522314 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:31:09  [ main:2523135 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:31:09  [ Thread-48:2523136 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:31:09  [ Thread-48:2523136 ] - [ INFO ]  got goods list
+2020-06-18 01:31:09  [ Thread-48:2523136 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:31:09  [ Thread-48:2523136 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:31:13  [ main:2527480 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:31:13  [ Thread-49:2527480 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:31:13  [ Thread-49:2527481 ] - [ INFO ]  got goods list
+2020-06-18 01:31:13  [ Thread-49:2527481 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:31:13  [ Thread-49:2527481 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:31:14  [ main:2527920 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:31:14  [ Thread-50:2527921 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:31:14  [ Thread-50:2527921 ] - [ INFO ]  got goods list
+2020-06-18 01:31:14  [ Thread-50:2527921 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:31:14  [ Thread-50:2527921 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:36:58  [ main:2872000 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:36:58  [ Thread-51:2872086 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:36:58  [ Thread-51:2872086 ] - [ INFO ]  test login success
+2020-06-18 01:36:58  [ Thread-51:2872087 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:36:58  [ Thread-51:2872087 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:36:59  [ main:2872849 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:36:59  [ Thread-52:2872850 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:36:59  [ Thread-52:2872850 ] - [ INFO ]  got seller list
+2020-06-18 01:36:59  [ Thread-52:2872850 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:36:59  [ Thread-52:2872850 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:37:00  [ main:2873832 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:37:00  [ Thread-53:2873833 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:37:00  [ Thread-53:2873833 ] - [ INFO ]  got goods list
+2020-06-18 01:37:00  [ Thread-53:2873834 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:37:00  [ Thread-53:2873834 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:41:55  [ main:3169740 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:41:56  [ Thread-54:3169825 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:41:56  [ Thread-54:3169826 ] - [ INFO ]  test login success
+2020-06-18 01:41:56  [ Thread-54:3169826 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:41:56  [ Thread-54:3169826 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:41:56  [ main:3170642 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:41:56  [ Thread-55:3170643 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:41:56  [ Thread-55:3170643 ] - [ INFO ]  got seller list
+2020-06-18 01:41:56  [ Thread-55:3170643 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:41:56  [ Thread-55:3170644 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 01:41:57  [ main:3171590 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 01:41:57  [ Thread-56:3171591 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 01:41:57  [ Thread-56:3171591 ] - [ INFO ]  got goods list
+2020-06-18 01:41:57  [ Thread-56:3171591 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 01:41:57  [ Thread-56:3171591 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:37:12  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 16:53:09  [ main:957359 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:09  [ Thread-0:957492 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:09  [ Thread-0:957609 ] - [ INFO ]  register success, new seller:test1
+2020-06-18 16:53:09  [ Thread-0:957618 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:09  [ Thread-0:957620 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:13  [ main:961453 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:13  [ Thread-1:961454 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:13  [ Thread-1:961456 ] - [ INFO ]  test1 login success
+2020-06-18 16:53:13  [ Thread-1:961456 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:13  [ Thread-1:961456 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:14  [ main:962156 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:14  [ Thread-2:962156 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:14  [ Thread-2:962157 ] - [ INFO ]  got goods list
+2020-06-18 16:53:14  [ Thread-2:962159 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:14  [ Thread-2:962160 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:21  [ main:969422 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:21  [ Thread-3:969439 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:21  [ Thread-3:969442 ] - [ INFO ]  add new Goods: test
+2020-06-18 16:53:21  [ Thread-3:969443 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:21  [ Thread-3:969443 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:21  [ main:969445 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:21  [ Thread-4:969445 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:21  [ Thread-4:969446 ] - [ INFO ]  got goods list
+2020-06-18 16:53:21  [ Thread-4:969466 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:21  [ Thread-4:969466 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:30  [ main:977884 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:30  [ Thread-5:977885 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:30  [ Thread-5:977885 ] - [ INFO ]  add new Goods: test2
+2020-06-18 16:53:30  [ Thread-5:977885 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:30  [ Thread-5:977885 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:30  [ main:977887 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:30  [ Thread-6:977887 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:30  [ Thread-6:977887 ] - [ INFO ]  got goods list
+2020-06-18 16:53:30  [ Thread-6:977888 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:30  [ Thread-6:977888 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:49  [ main:997604 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:50  [ Thread-7:997694 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:50  [ Thread-7:997699 ] - [ INFO ]  register success, new customer:test
+2020-06-18 16:53:50  [ Thread-7:997700 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:50  [ Thread-7:997700 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:53  [ main:1001557 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:53  [ Thread-8:1001559 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:53  [ Thread-8:1001560 ] - [ INFO ]  test login success
+2020-06-18 16:53:53  [ Thread-8:1001560 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:53  [ Thread-8:1001560 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:54  [ main:1002226 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:54  [ Thread-9:1002227 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:54  [ Thread-9:1002227 ] - [ INFO ]  got seller list
+2020-06-18 16:53:54  [ Thread-9:1002227 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:54  [ Thread-9:1002227 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:53:55  [ main:1003663 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:53:55  [ Thread-10:1003663 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:53:55  [ Thread-10:1003664 ] - [ INFO ]  got goods list
+2020-06-18 16:53:55  [ Thread-10:1003664 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:53:55  [ Thread-10:1003664 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:19  [ main:1147484 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:19  [ Thread-11:1147568 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:19  [ Thread-11:1147568 ] - [ INFO ]  test1 login success
+2020-06-18 16:56:19  [ Thread-11:1147569 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:19  [ Thread-11:1147569 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:20  [ main:1148284 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:20  [ Thread-12:1148285 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:20  [ Thread-12:1148285 ] - [ INFO ]  got goods list
+2020-06-18 16:56:20  [ Thread-12:1148286 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:20  [ Thread-12:1148286 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:27  [ main:1155204 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:27  [ Thread-13:1155283 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:27  [ Thread-13:1155284 ] - [ INFO ]  test login success
+2020-06-18 16:56:27  [ Thread-13:1155284 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:27  [ Thread-13:1155284 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:28  [ main:1155978 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:28  [ Thread-14:1155978 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:28  [ Thread-14:1155979 ] - [ INFO ]  got seller list
+2020-06-18 16:56:28  [ Thread-14:1155979 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:28  [ Thread-14:1155979 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:29  [ main:1157102 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:29  [ Thread-15:1157102 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:29  [ Thread-15:1157102 ] - [ INFO ]  got goods list
+2020-06-18 16:56:29  [ Thread-15:1157103 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:29  [ Thread-15:1157103 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:53  [ main:1181038 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:53  [ Thread-16:1181039 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:53  [ Thread-16:1181040 ] - [ INFO ]  user: 0 vip level become VIP1
+2020-06-18 16:56:53  [ Thread-16:1181040 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:53  [ Thread-16:1181040 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 16:56:57  [ main:1184804 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 16:56:57  [ Thread-17:1184805 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 16:56:57  [ Thread-17:1184805 ] - [ INFO ]  user: 0 vip level become VIP2
+2020-06-18 16:56:57  [ Thread-17:1184805 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 16:56:57  [ Thread-17:1184805 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:05:21  [ main:1688818 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:05:21  [ Thread-18:1688910 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:05:21  [ Thread-18:1688910 ] - [ INFO ]  test login success
+2020-06-18 17:05:21  [ Thread-18:1688911 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:05:21  [ Thread-18:1688911 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:05:21  [ main:1689525 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:05:21  [ Thread-19:1689526 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:05:21  [ Thread-19:1689526 ] - [ INFO ]  got seller list
+2020-06-18 17:05:21  [ Thread-19:1689526 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:05:21  [ Thread-19:1689527 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:05:23  [ main:1691285 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:05:23  [ Thread-20:1691286 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:05:23  [ Thread-20:1691286 ] - [ INFO ]  got goods list
+2020-06-18 17:05:23  [ Thread-20:1691286 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:05:23  [ Thread-20:1691286 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:05:28  [ main:1695890 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:05:28  [ Thread-21:1695922 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:05:28  [ Thread-21:1695933 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:08:27  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 17:08:36  [ main:8636 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:08:36  [ Thread-0:8637 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:10:20  [ Thread-0:112541 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:14:00  [ main:332549 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:14:00  [ Thread-1:332550 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:17:56  [ Thread-1:568454 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:17:58  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 17:18:08  [ main:9545 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:08  [ Thread-0:9641 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:08  [ Thread-0:9748 ] - [ INFO ]  register success, new seller:test1
+2020-06-18 17:18:08  [ Thread-0:9758 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:08  [ Thread-0:9760 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:12  [ main:13330 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:12  [ Thread-1:13333 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:12  [ Thread-1:13336 ] - [ INFO ]  test1 login success
+2020-06-18 17:18:12  [ Thread-1:13336 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:12  [ Thread-1:13336 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:13  [ main:15029 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:13  [ Thread-2:15030 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:13  [ Thread-2:15031 ] - [ INFO ]  got goods list
+2020-06-18 17:18:13  [ Thread-2:15032 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:13  [ Thread-2:15032 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:19  [ main:20530 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:19  [ Thread-3:20546 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:19  [ Thread-3:20550 ] - [ INFO ]  add new Goods: test
+2020-06-18 17:18:19  [ Thread-3:20550 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:19  [ Thread-3:20550 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:19  [ main:20551 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:19  [ Thread-4:20552 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:19  [ Thread-4:20552 ] - [ INFO ]  got goods list
+2020-06-18 17:18:19  [ Thread-4:20576 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:19  [ Thread-4:20576 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:26  [ main:28203 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:26  [ Thread-5:28203 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:26  [ Thread-5:28203 ] - [ INFO ]  add new Goods: test2
+2020-06-18 17:18:26  [ Thread-5:28204 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:26  [ Thread-5:28204 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:26  [ main:28206 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:26  [ Thread-6:28206 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:26  [ Thread-6:28206 ] - [ INFO ]  got goods list
+2020-06-18 17:18:26  [ Thread-6:28207 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:26  [ Thread-6:28207 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:41  [ main:42686 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:41  [ Thread-7:42780 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:41  [ Thread-7:42783 ] - [ INFO ]  register success, new customer:test
+2020-06-18 17:18:41  [ Thread-7:42784 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:41  [ Thread-7:42784 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:43  [ main:44707 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:43  [ Thread-8:44709 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:43  [ Thread-8:44710 ] - [ INFO ]  test login success
+2020-06-18 17:18:43  [ Thread-8:44711 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:43  [ Thread-8:44711 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:44  [ main:45389 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:44  [ Thread-9:45390 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:44  [ Thread-9:45390 ] - [ INFO ]  got seller list
+2020-06-18 17:18:44  [ Thread-9:45390 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:44  [ Thread-9:45391 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:44  [ main:45932 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:44  [ Thread-10:45933 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:44  [ Thread-10:45933 ] - [ INFO ]  got goods list
+2020-06-18 17:18:44  [ Thread-10:45933 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:44  [ Thread-10:45933 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:18:51  [ main:52398 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:18:51  [ Thread-11:52424 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:18:51  [ Thread-11:52431 ] - [ INFO ]  add new order: 0
+2020-06-18 17:18:51  [ Thread-11:52432 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:18:51  [ Thread-11:52432 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:19:13  [ main:74962 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:19:13  [ Thread-12:74963 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:19:13  [ Thread-12:74964 ] - [ INFO ]  user: 0 vip level become VIP2
+2020-06-18 17:19:13  [ Thread-12:74964 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:19:13  [ Thread-12:74964 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:19:15  [ main:77020 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:19:15  [ Thread-13:77021 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:19:15  [ Thread-13:77022 ] - [ INFO ]  add new order: 1
+2020-06-18 17:19:15  [ Thread-13:77022 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:19:15  [ Thread-13:77023 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:39:44  [ main:1305515 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:39:44  [ Thread-14:1305599 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:39:44  [ Thread-14:1305599 ] - [ INFO ]  test1 login success
+2020-06-18 17:39:44  [ Thread-14:1305600 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:39:44  [ Thread-14:1305600 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:39:45  [ main:1306325 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:39:45  [ Thread-15:1306325 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:39:45  [ Thread-15:1306326 ] - [ INFO ]  got goods list
+2020-06-18 17:39:45  [ Thread-15:1306326 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:39:45  [ Thread-15:1306326 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:39:45  [ main:1306334 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:39:45  [ Thread-16:1306334 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:39:45  [ Thread-16:1306335 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:40:16  [ main:1337564 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:40:16  [ Thread-17:1337667 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:40:16  [ Thread-17:1337667 ] - [ INFO ]  test1 login success
+2020-06-18 17:40:16  [ Thread-17:1337667 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:40:16  [ Thread-17:1337667 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:40:23  [ main:1344404 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:40:23  [ Thread-18:1344404 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:40:23  [ Thread-18:1344404 ] - [ INFO ]  got goods list
+2020-06-18 17:40:23  [ Thread-18:1344405 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 17:40:23  [ Thread-18:1344405 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 17:40:23  [ main:1344418 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 17:40:23  [ Thread-19:1344418 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 17:40:23  [ Thread-19:1344419 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:34:49  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 18:42:27  [ main:458776 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:27  [ Thread-0:458889 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:28  [ Thread-0:458998 ] - [ INFO ]  register success, new seller:test
+2020-06-18 18:42:28  [ Thread-0:459007 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:28  [ Thread-0:459009 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:30  [ main:461486 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:30  [ Thread-1:461488 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:30  [ Thread-1:461490 ] - [ INFO ]  test login success
+2020-06-18 18:42:30  [ Thread-1:461490 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:30  [ Thread-1:461490 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:31  [ main:462138 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:31  [ Thread-2:462139 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:31  [ Thread-2:462140 ] - [ INFO ]  got goods list
+2020-06-18 18:42:31  [ Thread-2:462142 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:31  [ Thread-2:462142 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:31  [ main:462152 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:31  [ Thread-3:462153 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:31  [ Thread-3:462155 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:42:31  [ Thread-3:462155 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:31  [ Thread-3:462156 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:36  [ main:467685 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:36  [ Thread-4:467703 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:36  [ Thread-4:467706 ] - [ INFO ]  add new Goods: test1
+2020-06-18 18:42:36  [ Thread-4:467707 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:36  [ Thread-4:467707 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:36  [ main:467709 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:36  [ Thread-5:467709 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:36  [ Thread-5:467709 ] - [ INFO ]  got goods list
+2020-06-18 18:42:36  [ Thread-5:467731 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:36  [ Thread-5:467731 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:41  [ main:472286 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:41  [ Thread-6:472286 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:41  [ Thread-6:472287 ] - [ INFO ]  add new Goods: test2
+2020-06-18 18:42:41  [ Thread-6:472287 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:41  [ Thread-6:472287 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:41  [ main:472289 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:41  [ Thread-7:472289 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:41  [ Thread-7:472289 ] - [ INFO ]  got goods list
+2020-06-18 18:42:41  [ Thread-7:472290 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:41  [ Thread-7:472290 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:56  [ main:487237 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:56  [ Thread-8:487334 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:56  [ Thread-8:487338 ] - [ INFO ]  register success, new customer:test2
+2020-06-18 18:42:56  [ Thread-8:487338 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:56  [ Thread-8:487338 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:58  [ main:489758 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:58  [ Thread-9:489760 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:58  [ Thread-9:489760 ] - [ INFO ]  test2 login success
+2020-06-18 18:42:58  [ Thread-9:489761 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:58  [ Thread-9:489761 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:42:59  [ main:490497 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:42:59  [ Thread-10:490498 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:42:59  [ Thread-10:490498 ] - [ INFO ]  got seller list
+2020-06-18 18:42:59  [ Thread-10:490499 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:42:59  [ Thread-10:490499 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:00  [ main:491759 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:00  [ Thread-11:491759 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:00  [ Thread-11:491760 ] - [ INFO ]  got goods list
+2020-06-18 18:43:00  [ Thread-11:491760 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:00  [ Thread-11:491760 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:05  [ main:496408 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:05  [ Thread-12:496437 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:05  [ Thread-12:496444 ] - [ INFO ]  add new order: 0
+2020-06-18 18:43:05  [ Thread-12:496444 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:05  [ Thread-12:496444 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:09  [ main:500648 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:09  [ Thread-13:500649 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:09  [ Thread-13:500649 ] - [ INFO ]  add new order: 1
+2020-06-18 18:43:09  [ Thread-13:500650 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:09  [ Thread-13:500650 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:18  [ main:509748 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:18  [ Thread-14:509831 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:18  [ Thread-14:509831 ] - [ INFO ]  login failed, username not exist
+2020-06-18 18:43:18  [ Thread-14:509831 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:18  [ Thread-14:509831 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:21  [ main:512086 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:21  [ Thread-15:512086 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-15:512087 ] - [ INFO ]  test login success
+2020-06-18 18:43:21  [ Thread-15:512087 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-15:512087 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:21  [ main:512758 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:21  [ Thread-16:512759 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-16:512759 ] - [ INFO ]  got goods list
+2020-06-18 18:43:21  [ Thread-16:512760 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-16:512760 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:21  [ main:512769 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:21  [ Thread-17:512770 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-17:512770 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:43:21  [ Thread-17:512785 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:21  [ Thread-17:512786 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:43:23  [ main:514430 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:43:23  [ Thread-18:514431 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:43:23  [ Thread-18:514431 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:43:23  [ Thread-18:514432 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:43:23  [ Thread-18:514432 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:44:57  [ main:607937 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:44:57  [ Thread-19:608020 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-19:608020 ] - [ INFO ]  test login success
+2020-06-18 18:44:57  [ Thread-19:608020 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-19:608021 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:44:57  [ main:608784 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:44:57  [ Thread-20:608785 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-20:608785 ] - [ INFO ]  got goods list
+2020-06-18 18:44:57  [ Thread-20:608785 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-20:608785 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:44:57  [ main:608793 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:44:57  [ Thread-21:608794 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-21:608794 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:44:57  [ Thread-21:608799 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:44:57  [ Thread-21:608799 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:46:59  [ main:730199 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:46:59  [ Thread-22:730200 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:46:59  [ Thread-22:730200 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:46:59  [ Thread-22:730201 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:46:59  [ Thread-22:730202 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:50:59  [ main:970810 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:50:59  [ Thread-23:970892 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:50:59  [ Thread-23:970893 ] - [ INFO ]  login failed, username not exist
+2020-06-18 18:50:59  [ Thread-23:970893 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:50:59  [ Thread-23:970893 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:51:02  [ main:973293 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:51:02  [ Thread-24:973294 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:51:02  [ Thread-24:973294 ] - [ INFO ]  test2 login success
+2020-06-18 18:51:02  [ Thread-24:973294 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:51:02  [ Thread-24:973294 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:51:03  [ main:974058 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:51:03  [ Thread-25:974059 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:51:03  [ Thread-25:974059 ] - [ INFO ]  got seller list
+2020-06-18 18:51:03  [ Thread-25:974059 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:51:03  [ Thread-25:974060 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:51:04  [ main:975565 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:51:04  [ Thread-26:975565 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:51:04  [ Thread-26:975566 ] - [ INFO ]  got goods list
+2020-06-18 18:51:04  [ Thread-26:975566 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:51:04  [ Thread-26:975566 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:51:07  [ main:978696 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:51:07  [ Thread-27:978726 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:51:07  [ Thread-27:978726 ] - [ INFO ]  add new order: 2
+2020-06-18 18:51:07  [ Thread-27:978726 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:51:07  [ Thread-27:978726 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 18:51:11  [ main:982045 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 18:51:11  [ Thread-28:982046 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 18:51:11  [ Thread-28:982046 ] - [ INFO ]  seller  0 got order list
+2020-06-18 18:51:11  [ Thread-28:982048 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 18:51:11  [ Thread-28:982048 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:00:44  [ main:1555360 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:00:44  [ Thread-29:1555440 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:00:44  [ Thread-29:1555440 ] - [ INFO ]  test login success
+2020-06-18 19:00:44  [ Thread-29:1555440 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:00:44  [ Thread-29:1555440 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:00:45  [ main:1556133 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:00:45  [ Thread-30:1556133 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:00:45  [ Thread-30:1556134 ] - [ INFO ]  got goods list
+2020-06-18 19:00:45  [ Thread-30:1556134 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:00:45  [ Thread-30:1556134 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:00:45  [ main:1556144 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:00:45  [ Thread-31:1556145 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:00:45  [ Thread-31:1556145 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:00:45  [ Thread-31:1556146 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:00:45  [ Thread-31:1556147 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:21  [ main:1592540 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:21  [ Thread-32:1592623 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:21  [ Thread-32:1592623 ] - [ INFO ]  login failed, username not exist
+2020-06-18 19:01:21  [ Thread-32:1592624 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:21  [ Thread-32:1592624 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:23  [ main:1594803 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:23  [ Thread-33:1594804 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:23  [ Thread-33:1594804 ] - [ INFO ]  test2 login success
+2020-06-18 19:01:23  [ Thread-33:1594804 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:23  [ Thread-33:1594804 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:24  [ main:1595471 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:24  [ Thread-34:1595471 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:24  [ Thread-34:1595471 ] - [ INFO ]  got seller list
+2020-06-18 19:01:24  [ Thread-34:1595472 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:24  [ Thread-34:1595472 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:25  [ main:1596693 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:25  [ Thread-35:1596693 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:25  [ Thread-35:1596694 ] - [ INFO ]  got goods list
+2020-06-18 19:01:25  [ Thread-35:1596694 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:25  [ Thread-35:1596694 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:28  [ main:1599880 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:29  [ Thread-36:1599915 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:29  [ Thread-36:1599916 ] - [ INFO ]  add new order: 3
+2020-06-18 19:01:29  [ Thread-36:1599916 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:29  [ Thread-36:1599916 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:01:31  [ main:1602248 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:01:31  [ Thread-37:1602252 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:01:31  [ Thread-37:1602252 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:01:31  [ Thread-37:1602255 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:01:31  [ Thread-37:1602255 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:18  [ main:1709549 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:18  [ Thread-38:1709550 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:18  [ Thread-38:1709551 ] - [ INFO ]  add new order: 4
+2020-06-18 19:03:18  [ Thread-38:1709551 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:18  [ Thread-38:1709551 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:21  [ main:1712207 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:21  [ Thread-39:1712207 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:21  [ Thread-39:1712207 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:03:21  [ Thread-39:1712208 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:21  [ Thread-39:1712208 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:52  [ main:1743371 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:52  [ Thread-40:1743460 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:52  [ Thread-40:1743461 ] - [ INFO ]  test2 login success
+2020-06-18 19:03:52  [ Thread-40:1743461 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:52  [ Thread-40:1743461 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:53  [ main:1744264 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:53  [ Thread-41:1744265 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:53  [ Thread-41:1744265 ] - [ INFO ]  got seller list
+2020-06-18 19:03:53  [ Thread-41:1744265 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:53  [ Thread-41:1744265 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:55  [ main:1746173 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:55  [ Thread-42:1746174 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:55  [ Thread-42:1746174 ] - [ INFO ]  got goods list
+2020-06-18 19:03:55  [ Thread-42:1746174 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:55  [ Thread-42:1746174 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:03:58  [ main:1748991 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:03:58  [ Thread-43:1749021 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:03:58  [ Thread-43:1749021 ] - [ INFO ]  add new order: 5
+2020-06-18 19:03:58  [ Thread-43:1749022 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:03:58  [ Thread-43:1749022 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:04:00  [ main:1751278 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:04:00  [ Thread-44:1751279 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:04:00  [ Thread-44:1751279 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:04:00  [ Thread-44:1751279 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:04:00  [ Thread-44:1751280 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:17:51  [ main:2582862 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:17:52  [ Thread-45:2582945 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:17:52  [ Thread-45:2582945 ] - [ INFO ]  test2 login success
+2020-06-18 19:17:52  [ Thread-45:2582945 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:17:52  [ Thread-45:2582945 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:17:52  [ main:2583784 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:17:52  [ Thread-46:2583785 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:17:52  [ Thread-46:2583785 ] - [ INFO ]  got seller list
+2020-06-18 19:17:52  [ Thread-46:2583785 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:17:52  [ Thread-46:2583786 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:20:50  [ main:2761421 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:20:50  [ Thread-47:2761506 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:20:50  [ Thread-47:2761506 ] - [ INFO ]  test2 login success
+2020-06-18 19:20:50  [ Thread-47:2761506 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:20:50  [ Thread-47:2761506 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:20:51  [ main:2762446 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:20:51  [ Thread-48:2762447 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:20:51  [ Thread-48:2762447 ] - [ INFO ]  got seller list
+2020-06-18 19:20:51  [ Thread-48:2762447 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:20:51  [ Thread-48:2762447 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:21:54  [ main:2825144 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:21:54  [ Thread-49:2825240 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:21:54  [ Thread-49:2825241 ] - [ INFO ]  test2 login success
+2020-06-18 19:21:54  [ Thread-49:2825241 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:21:54  [ Thread-49:2825241 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:21:55  [ main:2826392 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:21:55  [ Thread-50:2826393 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:21:55  [ Thread-50:2826393 ] - [ INFO ]  got seller list
+2020-06-18 19:21:55  [ Thread-50:2826393 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:21:55  [ Thread-50:2826393 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:31:22  [ main:3393326 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:31:22  [ Thread-51:3393412 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:31:22  [ Thread-51:3393412 ] - [ INFO ]  test2 login success
+2020-06-18 19:31:22  [ Thread-51:3393412 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:31:22  [ Thread-51:3393412 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:31:23  [ main:3394262 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:31:23  [ Thread-52:3394262 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:31:23  [ Thread-52:3394263 ] - [ INFO ]  got seller list
+2020-06-18 19:31:23  [ Thread-52:3394263 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:31:23  [ Thread-52:3394263 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:31:55  [ main:3426571 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:31:55  [ Thread-53:3426657 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:31:55  [ Thread-53:3426657 ] - [ INFO ]  test2 login success
+2020-06-18 19:31:55  [ Thread-53:3426657 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:31:55  [ Thread-53:3426658 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:31:56  [ main:3427469 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:31:56  [ Thread-54:3427470 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:31:56  [ Thread-54:3427470 ] - [ INFO ]  got seller list
+2020-06-18 19:31:56  [ Thread-54:3427470 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:31:56  [ Thread-54:3427470 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:31:57  [ main:3428265 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:31:57  [ Thread-55:3428265 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:31:57  [ Thread-55:3428265 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:05  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 19:33:32  [ main:26870 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:32  [ Thread-0:27006 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:32  [ Thread-0:27126 ] - [ INFO ]  register success, new seller:test
+2020-06-18 19:33:32  [ Thread-0:27136 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:32  [ Thread-0:27138 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:35  [ main:29474 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:35  [ Thread-1:29476 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-1:29477 ] - [ INFO ]  test login success
+2020-06-18 19:33:35  [ Thread-1:29478 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-1:29478 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:35  [ main:30141 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:35  [ Thread-2:30142 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-2:30143 ] - [ INFO ]  got goods list
+2020-06-18 19:33:35  [ Thread-2:30144 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-2:30145 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:35  [ main:30153 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:35  [ Thread-3:30154 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-3:30154 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:33:35  [ Thread-3:30155 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:35  [ Thread-3:30155 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:41  [ main:35612 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:41  [ Thread-4:35628 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:41  [ Thread-4:35632 ] - [ INFO ]  add new Goods: test
+2020-06-18 19:33:41  [ Thread-4:35632 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:41  [ Thread-4:35632 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:41  [ main:35634 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:41  [ Thread-5:35635 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:41  [ Thread-5:35635 ] - [ INFO ]  got goods list
+2020-06-18 19:33:41  [ Thread-5:35658 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:41  [ Thread-5:35658 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:46  [ main:40795 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:46  [ Thread-6:40795 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:46  [ Thread-6:40796 ] - [ INFO ]  add new Goods: test2
+2020-06-18 19:33:46  [ Thread-6:40796 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:46  [ Thread-6:40796 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:46  [ main:40798 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:46  [ Thread-7:40799 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:46  [ Thread-7:40799 ] - [ INFO ]  got goods list
+2020-06-18 19:33:46  [ Thread-7:40799 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:46  [ Thread-7:40799 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:52  [ main:46941 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:52  [ Thread-8:47028 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:52  [ Thread-8:47032 ] - [ INFO ]  register success, new customer:test1
+2020-06-18 19:33:52  [ Thread-8:47032 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:52  [ Thread-8:47032 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:55  [ main:49530 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:55  [ Thread-9:49531 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:55  [ Thread-9:49532 ] - [ INFO ]  test1 login success
+2020-06-18 19:33:55  [ Thread-9:49533 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:55  [ Thread-9:49533 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:55  [ main:50198 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:55  [ Thread-10:50199 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:55  [ Thread-10:50199 ] - [ INFO ]  got seller list
+2020-06-18 19:33:55  [ Thread-10:50199 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:55  [ Thread-10:50199 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:33:56  [ main:50964 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:33:56  [ Thread-11:50967 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:33:56  [ Thread-11:50968 ] - [ INFO ]  got goods list
+2020-06-18 19:33:56  [ Thread-11:50968 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:33:56  [ Thread-11:50968 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:01  [ main:56181 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:01  [ Thread-12:56208 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:01  [ Thread-12:56214 ] - [ INFO ]  add new order: 0
+2020-06-18 19:34:01  [ Thread-12:56215 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:01  [ Thread-12:56215 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:06  [ main:61198 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:06  [ Thread-13:61198 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:06  [ Thread-13:61199 ] - [ INFO ]  add new order: 1
+2020-06-18 19:34:06  [ Thread-13:61199 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:06  [ Thread-13:61200 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:08  [ main:62691 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:08  [ Thread-14:62692 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:08  [ Thread-14:62692 ] - [ INFO ]  customer 0 got order list
+2020-06-18 19:34:08  [ Thread-14:62708 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:08  [ Thread-14:62709 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:17  [ main:71992 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:17  [ Thread-15:71993 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:17  [ Thread-15:71993 ] - [ INFO ]  customer 0 got order list
+2020-06-18 19:34:17  [ Thread-15:71994 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:17  [ Thread-15:71994 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:30  [ main:84656 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:30  [ Thread-16:84660 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:30  [ Thread-16:84660 ] - [ INFO ]  customer 0 got order list
+2020-06-18 19:34:30  [ Thread-16:84661 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:30  [ Thread-16:84661 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:38  [ main:92427 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:38  [ Thread-17:92428 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:38  [ Thread-17:92428 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:34:38  [ Thread-17:92431 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:38  [ Thread-17:92431 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:34:58  [ main:113011 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:34:58  [ Thread-18:113100 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:34:58  [ Thread-18:113101 ] - [ INFO ]  register success, new customer:test2
+2020-06-18 19:34:58  [ Thread-18:113101 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:34:58  [ Thread-18:113101 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:08  [ main:122794 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:08  [ Thread-19:122796 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:08  [ Thread-19:122796 ] - [ INFO ]  register success, new seller:test3
+2020-06-18 19:35:08  [ Thread-19:122797 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:08  [ Thread-19:122797 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:11  [ main:126259 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:11  [ Thread-20:126260 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:11  [ Thread-20:126260 ] - [ INFO ]  test2login failed, wrong password
+2020-06-18 19:35:11  [ Thread-20:126261 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:11  [ Thread-20:126261 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:13  [ main:128170 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:13  [ Thread-21:128171 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:13  [ Thread-21:128171 ] - [ INFO ]  test2 login success
+2020-06-18 19:35:13  [ Thread-21:128171 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:13  [ Thread-21:128171 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:14  [ main:128867 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:14  [ Thread-22:128868 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:14  [ Thread-22:128868 ] - [ INFO ]  got seller list
+2020-06-18 19:35:14  [ Thread-22:128868 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:14  [ Thread-22:128868 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:15  [ main:129741 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:15  [ Thread-23:129742 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:15  [ Thread-23:129742 ] - [ INFO ]  got goods list
+2020-06-18 19:35:15  [ Thread-23:129742 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:15  [ Thread-23:129742 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:15  [ main:130019 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:15  [ Thread-24:130020 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:15  [ Thread-24:130020 ] - [ INFO ]  got goods list
+2020-06-18 19:35:15  [ Thread-24:130020 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:15  [ Thread-24:130020 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:16  [ main:130650 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:16  [ Thread-25:130651 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:16  [ Thread-25:130651 ] - [ INFO ]  got goods list
+2020-06-18 19:35:16  [ Thread-25:130652 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:16  [ Thread-25:130652 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:28  [ main:142296 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:28  [ Thread-26:142380 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-26:142380 ] - [ INFO ]  test3 login success
+2020-06-18 19:35:28  [ Thread-26:142380 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-26:142380 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:28  [ main:143080 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:28  [ Thread-27:143081 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-27:143081 ] - [ INFO ]  got goods list
+2020-06-18 19:35:28  [ Thread-27:143081 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-27:143081 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:28  [ main:143091 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:28  [ Thread-28:143092 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-28:143092 ] - [ INFO ]  seller  1 got order list
+2020-06-18 19:35:28  [ Thread-28:143092 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:28  [ Thread-28:143092 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:34  [ main:148708 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:34  [ Thread-29:148724 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:34  [ Thread-29:148724 ] - [ INFO ]  add new Goods: 222
+2020-06-18 19:35:34  [ Thread-29:148724 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:34  [ Thread-29:148725 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:34  [ main:148727 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:34  [ Thread-30:148727 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:34  [ Thread-30:148728 ] - [ INFO ]  got goods list
+2020-06-18 19:35:34  [ Thread-30:148728 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:34  [ Thread-30:148728 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:40  [ main:154291 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:40  [ Thread-31:154292 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:40  [ Thread-31:154292 ] - [ INFO ]  add new Goods: 333
+2020-06-18 19:35:40  [ Thread-31:154292 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:40  [ Thread-31:154292 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:40  [ main:154294 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:40  [ Thread-32:154294 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:40  [ Thread-32:154294 ] - [ INFO ]  got goods list
+2020-06-18 19:35:40  [ Thread-32:154295 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:40  [ Thread-32:154295 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:44  [ main:158285 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:44  [ Thread-33:158286 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:44  [ Thread-33:158287 ] - [ INFO ]  got goods list
+2020-06-18 19:35:44  [ Thread-33:158287 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:44  [ Thread-33:158287 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:44  [ main:158603 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:44  [ Thread-34:158604 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:44  [ Thread-34:158604 ] - [ INFO ]  got goods list
+2020-06-18 19:35:44  [ Thread-34:158604 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:44  [ Thread-34:158604 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:46  [ main:161005 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:46  [ Thread-35:161006 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:46  [ Thread-35:161006 ] - [ INFO ]  got goods list
+2020-06-18 19:35:46  [ Thread-35:161007 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:46  [ Thread-35:161007 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:51  [ main:165990 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:51  [ Thread-36:166011 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:51  [ Thread-36:166012 ] - [ INFO ]  add new order: 2
+2020-06-18 19:35:51  [ Thread-36:166012 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:51  [ Thread-36:166012 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:53  [ main:167778 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:53  [ Thread-37:167781 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:53  [ Thread-37:167781 ] - [ INFO ]  got goods list
+2020-06-18 19:35:53  [ Thread-37:167781 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:53  [ Thread-37:167781 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:57  [ main:172130 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:57  [ Thread-38:172130 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:57  [ Thread-38:172131 ] - [ INFO ]  add new order: 3
+2020-06-18 19:35:57  [ Thread-38:172131 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:57  [ Thread-38:172131 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:35:59  [ main:173338 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:35:59  [ Thread-39:173339 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:35:59  [ Thread-39:173339 ] - [ INFO ]  customer 1 got order list
+2020-06-18 19:35:59  [ Thread-39:173340 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:35:59  [ Thread-39:173340 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:36:26  [ main:200552 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:36:26  [ Thread-40:200553 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:36:26  [ Thread-40:200553 ] - [ INFO ]  seller  0 got order list
+2020-06-18 19:36:26  [ Thread-40:200554 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:36:26  [ Thread-40:200554 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:57:31  [ main:1465335 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:57:31  [ Thread-41:1465439 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:57:31  [ Thread-41:1465439 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 19:59:16  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 19:59:24  [ main:7514 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 19:59:24  [ Thread-0:7515 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 19:59:44  [ Thread-0:28242 ] - [ INFO ]  register success, new seller:root
+2020-06-18 19:59:44  [ Thread-0:28254 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 19:59:44  [ Thread-0:28254 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 20:00:07  [ main:50927 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 20:00:07  [ Thread-1:50928 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 20:00:17  [ Thread-1:60650 ] - [ INFO ]  register failed, username have existed.
+2020-06-18 20:00:17  [ Thread-1:60650 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 20:00:17  [ Thread-1:60651 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 20:00:20  [ main:63672 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 20:00:20  [ Thread-2:63672 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 20:00:23  [ Thread-2:66809 ] - [ INFO ]  register success, new seller:root1
+2020-06-18 20:00:23  [ Thread-2:66809 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 20:00:23  [ Thread-2:66809 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 20:00:57  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 20:01:02  [ main:5163 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 20:01:02  [ Thread-0:5250 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 20:01:02  [ Thread-0:5360 ] - [ INFO ]  register success, new seller:root
+2020-06-18 20:01:02  [ Thread-0:5371 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 20:01:02  [ Thread-0:5371 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:41:33  [ main:9636369 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:41:33  [ Thread-1:9636453 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:41:33  [ Thread-1:9636464 ] - [ INFO ]  root login success
+2020-06-18 22:41:33  [ Thread-1:9636466 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:41:33  [ Thread-1:9636466 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:44:32  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 22:44:39  [ main:6980 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:44:39  [ Thread-0:7074 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:44:39  [ Thread-0:7252 ] - [ INFO ]  register success, new seller:root
+2020-06-18 22:44:39  [ Thread-0:7268 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:44:39  [ Thread-0:7268 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:44:43  [ main:10804 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:44:43  [ Thread-1:10804 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:44:43  [ Thread-1:10805 ] - [ INFO ]  root login success
+2020-06-18 22:44:43  [ Thread-1:10806 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:44:43  [ Thread-1:10806 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:44:44  [ main:11575 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:44:44  [ Thread-2:11575 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:44:44  [ Thread-2:11576 ] - [ INFO ]  manager got all order list
+2020-06-18 22:44:44  [ Thread-2:11577 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:44:44  [ Thread-2:11577 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:44:45  [ main:12772 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:44:45  [ Thread-3:12773 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:44:45  [ Thread-3:12773 ] - [ INFO ]  manager got all order list
+2020-06-18 22:44:45  [ Thread-3:12773 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:44:45  [ Thread-3:12774 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:45:44  [ main:71629 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:45:44  [ Thread-4:71710 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:45:44  [ Thread-4:71711 ] - [ INFO ]  root login success
+2020-06-18 22:45:44  [ Thread-4:71711 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:45:44  [ Thread-4:71712 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:45:45  [ main:72826 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:45:45  [ Thread-5:72827 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:45:45  [ Thread-5:72827 ] - [ INFO ]  manager got all order list
+2020-06-18 22:45:45  [ Thread-5:72827 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:45:45  [ Thread-5:72828 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:45:55  [ main:83389 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:45:56  [ Thread-6:83483 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:45:56  [ Thread-6:83485 ] - [ INFO ]  register success, new customer:test1
+2020-06-18 22:45:56  [ Thread-6:83486 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:45:56  [ Thread-6:83486 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:08  [ main:96299 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:08  [ Thread-7:96302 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:08  [ Thread-7:96303 ] - [ INFO ]  register success, new seller:test2
+2020-06-18 22:46:08  [ Thread-7:96304 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:08  [ Thread-7:96304 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:17  [ main:104934 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:17  [ Thread-8:104935 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:17  [ Thread-8:104935 ] - [ INFO ]  register success, new seller:test3
+2020-06-18 22:46:17  [ Thread-8:104935 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:17  [ Thread-8:104935 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:19  [ main:107331 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:19  [ Thread-9:107333 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:19  [ Thread-9:107333 ] - [ INFO ]  test2 login success
+2020-06-18 22:46:19  [ Thread-9:107333 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:19  [ Thread-9:107334 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:20  [ main:108083 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:20  [ Thread-10:108083 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:20  [ Thread-10:108085 ] - [ INFO ]  got goods list
+2020-06-18 22:46:20  [ Thread-10:108085 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:20  [ Thread-10:108085 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:20  [ main:108095 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:20  [ Thread-11:108099 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:20  [ Thread-11:108100 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:46:20  [ Thread-11:108100 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:20  [ Thread-11:108101 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:25  [ main:112540 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:25  [ Thread-12:112560 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:25  [ Thread-12:112564 ] - [ INFO ]  add new Goods: test1
+2020-06-18 22:46:25  [ Thread-12:112564 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:25  [ Thread-12:112565 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:25  [ main:112566 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:25  [ Thread-13:112567 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:25  [ Thread-13:112567 ] - [ INFO ]  got goods list
+2020-06-18 22:46:25  [ Thread-13:112593 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:25  [ Thread-13:112593 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:29  [ main:117059 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:29  [ Thread-14:117059 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:29  [ Thread-14:117059 ] - [ INFO ]  add new Goods: test2
+2020-06-18 22:46:29  [ Thread-14:117060 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:29  [ Thread-14:117060 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:29  [ main:117061 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:29  [ Thread-15:117062 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:29  [ Thread-15:117062 ] - [ INFO ]  got goods list
+2020-06-18 22:46:29  [ Thread-15:117063 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:29  [ Thread-15:117063 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:37  [ main:125076 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:37  [ Thread-16:125168 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:37  [ Thread-16:125168 ] - [ INFO ]  register failed, username have existed.
+2020-06-18 22:46:37  [ Thread-16:125168 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:37  [ Thread-16:125169 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:41  [ main:128916 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:41  [ Thread-17:128917 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:41  [ Thread-17:128917 ] - [ INFO ]  register success, new customer:test4
+2020-06-18 22:46:41  [ Thread-17:128917 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:41  [ Thread-17:128917 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:44  [ main:132211 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:44  [ Thread-18:132213 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:44  [ Thread-18:132213 ] - [ INFO ]  test4login failed, wrong password
+2020-06-18 22:46:44  [ Thread-18:132214 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:44  [ Thread-18:132214 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:48  [ main:135763 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:48  [ Thread-19:135764 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:48  [ Thread-19:135764 ] - [ INFO ]  test4login failed, wrong password
+2020-06-18 22:46:48  [ Thread-19:135764 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:48  [ Thread-19:135764 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:51  [ main:138931 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:51  [ Thread-20:138932 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:51  [ Thread-20:138932 ] - [ INFO ]  test4login failed, wrong password
+2020-06-18 22:46:51  [ Thread-20:138932 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:51  [ Thread-20:138933 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:46:53  [ main:141116 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:46:53  [ Thread-21:141117 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:46:53  [ Thread-21:141118 ] - [ INFO ]  test4login failed, wrong password
+2020-06-18 22:46:53  [ Thread-21:141118 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:46:53  [ Thread-21:141118 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:09  [ main:156838 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:09  [ Thread-22:156839 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:09  [ Thread-22:156839 ] - [ INFO ]  test2 login success
+2020-06-18 22:47:09  [ Thread-22:156839 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:09  [ Thread-22:156840 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:10  [ main:157804 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:10  [ Thread-23:157807 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:10  [ Thread-23:157807 ] - [ INFO ]  got goods list
+2020-06-18 22:47:10  [ Thread-23:157808 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:10  [ Thread-23:157808 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:10  [ main:157821 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:10  [ Thread-24:157822 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:10  [ Thread-24:157822 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:47:10  [ Thread-24:157822 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:10  [ Thread-24:157822 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:19  [ main:167231 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:19  [ Thread-25:167309 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:19  [ Thread-25:167310 ] - [ INFO ]  login failed, username not exist
+2020-06-18 22:47:19  [ Thread-25:167310 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:19  [ Thread-25:167310 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:21  [ main:168676 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:21  [ Thread-26:168676 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:21  [ Thread-26:168678 ] - [ INFO ]  test1 login success
+2020-06-18 22:47:21  [ Thread-26:168681 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:21  [ Thread-26:168681 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:22  [ main:169715 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:22  [ Thread-27:169715 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:22  [ Thread-27:169715 ] - [ INFO ]  got seller list
+2020-06-18 22:47:22  [ Thread-27:169716 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:22  [ Thread-27:169716 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:26  [ main:173567 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:26  [ Thread-28:173568 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:26  [ Thread-28:173568 ] - [ INFO ]  got goods list
+2020-06-18 22:47:26  [ Thread-28:173569 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:26  [ Thread-28:173569 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:26  [ main:173980 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:26  [ Thread-29:173981 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:26  [ Thread-29:173981 ] - [ INFO ]  got goods list
+2020-06-18 22:47:26  [ Thread-29:173981 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:26  [ Thread-29:173981 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:27  [ main:174596 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:27  [ Thread-30:174597 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:27  [ Thread-30:174597 ] - [ INFO ]  got goods list
+2020-06-18 22:47:27  [ Thread-30:174598 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:27  [ Thread-30:174598 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:36  [ main:183916 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:36  [ Thread-31:183917 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:36  [ Thread-31:183917 ] - [ INFO ]  got goods list
+2020-06-18 22:47:36  [ Thread-31:183918 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:36  [ Thread-31:183918 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:39  [ main:186853 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:39  [ Thread-32:186854 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:39  [ Thread-32:186854 ] - [ INFO ]  got goods list
+2020-06-18 22:47:39  [ Thread-32:186854 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:39  [ Thread-32:186854 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:45  [ main:192834 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:45  [ Thread-33:192868 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:45  [ Thread-33:192876 ] - [ INFO ]  add new order: 0
+2020-06-18 22:47:45  [ Thread-33:192876 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:45  [ Thread-33:192877 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:46  [ main:194436 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:46  [ Thread-34:194437 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:46  [ Thread-34:194437 ] - [ INFO ]  customer 0 got order list
+2020-06-18 22:47:46  [ Thread-34:194454 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:46  [ Thread-34:194454 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:51  [ main:198917 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:51  [ Thread-35:198917 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:51  [ Thread-35:198918 ] - [ INFO ]  manager got all order list
+2020-06-18 22:47:51  [ Thread-35:198918 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:51  [ Thread-35:198918 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:47:57  [ main:205404 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:47:57  [ Thread-36:205404 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:47:57  [ Thread-36:205404 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:47:57  [ Thread-36:205406 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:47:57  [ Thread-36:205406 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:17  [ main:225411 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:17  [ Thread-37:225415 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:17  [ Thread-37:225415 ] - [ INFO ]  add new order: 1
+2020-06-18 22:48:17  [ Thread-37:225416 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:17  [ Thread-37:225416 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:19  [ main:227087 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:19  [ Thread-38:227088 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:19  [ Thread-38:227088 ] - [ INFO ]  manager got all order list
+2020-06-18 22:48:19  [ Thread-38:227089 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:19  [ Thread-38:227089 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:21  [ main:229080 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:21  [ Thread-39:229081 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:21  [ Thread-39:229081 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:48:21  [ Thread-39:229082 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:21  [ Thread-39:229082 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:36  [ main:243482 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:36  [ Thread-40:243583 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:36  [ Thread-40:243584 ] - [ INFO ]  register success, new customer:test5
+2020-06-18 22:48:36  [ Thread-40:243584 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:36  [ Thread-40:243584 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:39  [ main:246635 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:39  [ Thread-41:246636 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:39  [ Thread-41:246636 ] - [ INFO ]  test5 login success
+2020-06-18 22:48:39  [ Thread-41:246637 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:39  [ Thread-41:246637 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:39  [ main:247295 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:39  [ Thread-42:247296 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:39  [ Thread-42:247296 ] - [ INFO ]  got seller list
+2020-06-18 22:48:39  [ Thread-42:247296 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:39  [ Thread-42:247296 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:42  [ main:249835 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:42  [ Thread-43:249836 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:42  [ Thread-43:249837 ] - [ INFO ]  user: 2 vip level become VIP2
+2020-06-18 22:48:42  [ Thread-43:249837 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:42  [ Thread-43:249837 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:42  [ main:250429 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:42  [ Thread-44:250429 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:42  [ Thread-44:250430 ] - [ INFO ]  got goods list
+2020-06-18 22:48:42  [ Thread-44:250430 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:42  [ Thread-44:250430 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:43  [ main:250891 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:43  [ Thread-45:250892 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:43  [ Thread-45:250892 ] - [ INFO ]  got goods list
+2020-06-18 22:48:43  [ Thread-45:250892 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:43  [ Thread-45:250892 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:43  [ main:251172 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:43  [ Thread-46:251172 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:43  [ Thread-46:251172 ] - [ INFO ]  got goods list
+2020-06-18 22:48:43  [ Thread-46:251173 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:43  [ Thread-46:251173 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:48:48  [ main:256455 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:48:49  [ Thread-47:256482 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:48:49  [ Thread-47:256482 ] - [ INFO ]  add new order: 2
+2020-06-18 22:48:49  [ Thread-47:256482 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:48:49  [ Thread-47:256482 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:49:01  [ main:268885 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:49:01  [ Thread-48:268886 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:49:01  [ Thread-48:268886 ] - [ INFO ]  manager got all order list
+2020-06-18 22:49:01  [ Thread-48:268887 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:49:01  [ Thread-48:268887 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:12  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-18 22:53:14  [ main:2513 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:14  [ Thread-0:2603 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:14  [ Thread-0:2729 ] - [ INFO ]  register success, new seller:root
+2020-06-18 22:53:15  [ Thread-0:2747 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:15  [ Thread-0:2748 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:18  [ main:6720 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:18  [ Thread-1:6720 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:18  [ Thread-1:6721 ] - [ INFO ]  root login success
+2020-06-18 22:53:18  [ Thread-1:6721 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:18  [ Thread-1:6722 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:19  [ main:7445 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:19  [ Thread-2:7446 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:19  [ Thread-2:7446 ] - [ INFO ]  manager got all order list
+2020-06-18 22:53:19  [ Thread-2:7449 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:19  [ Thread-2:7449 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:27  [ main:14896 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:27  [ Thread-3:14986 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:27  [ Thread-3:14989 ] - [ INFO ]  register success, new customer:test1
+2020-06-18 22:53:27  [ Thread-3:14989 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:27  [ Thread-3:14989 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:39  [ main:26866 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:39  [ Thread-4:26966 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:39  [ Thread-4:26968 ] - [ INFO ]  register success, new seller:test2
+2020-06-18 22:53:39  [ Thread-4:26969 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:39  [ Thread-4:26969 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:41  [ main:29047 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:41  [ Thread-5:29049 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:41  [ Thread-5:29049 ] - [ INFO ]  test2 login success
+2020-06-18 22:53:41  [ Thread-5:29050 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:41  [ Thread-5:29050 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:42  [ main:29989 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:42  [ Thread-6:29990 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:42  [ Thread-6:29991 ] - [ INFO ]  got goods list
+2020-06-18 22:53:42  [ Thread-6:29991 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:42  [ Thread-6:29991 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:42  [ main:30000 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:42  [ Thread-7:30001 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:42  [ Thread-7:30001 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:53:42  [ Thread-7:30002 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:42  [ Thread-7:30002 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:45  [ main:32767 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:45  [ Thread-8:32784 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:45  [ Thread-8:32787 ] - [ INFO ]  add new Goods: test1
+2020-06-18 22:53:45  [ Thread-8:32787 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:45  [ Thread-8:32787 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:45  [ main:32789 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:45  [ Thread-9:32790 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:45  [ Thread-9:32790 ] - [ INFO ]  got goods list
+2020-06-18 22:53:45  [ Thread-9:32815 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:45  [ Thread-9:32815 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:48  [ main:36391 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:48  [ Thread-10:36391 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:48  [ Thread-10:36391 ] - [ INFO ]  add new Goods: test2
+2020-06-18 22:53:48  [ Thread-10:36392 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:48  [ Thread-10:36392 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:48  [ main:36393 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:48  [ Thread-11:36397 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:48  [ Thread-11:36397 ] - [ INFO ]  got goods list
+2020-06-18 22:53:48  [ Thread-11:36398 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:48  [ Thread-11:36398 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:52  [ main:40399 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:52  [ Thread-12:40402 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:52  [ Thread-12:40403 ] - [ INFO ]  test1 login success
+2020-06-18 22:53:52  [ Thread-12:40403 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:52  [ Thread-12:40403 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:53  [ main:41073 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:53  [ Thread-13:41074 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:53  [ Thread-13:41074 ] - [ INFO ]  got seller list
+2020-06-18 22:53:53  [ Thread-13:41074 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:53  [ Thread-13:41075 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:53:54  [ main:42009 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:53:54  [ Thread-14:42009 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:53:54  [ Thread-14:42010 ] - [ INFO ]  got goods list
+2020-06-18 22:53:54  [ Thread-14:42010 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:53:54  [ Thread-14:42010 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:01  [ main:48943 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:01  [ Thread-15:48971 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:01  [ Thread-15:48979 ] - [ INFO ]  add new order: 0
+2020-06-18 22:54:01  [ Thread-15:48980 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:01  [ Thread-15:48980 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:04  [ main:52390 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:04  [ Thread-16:52391 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:04  [ Thread-16:52391 ] - [ INFO ]  user: 0 vip level become VIP1
+2020-06-18 22:54:04  [ Thread-16:52391 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:04  [ Thread-16:52391 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:08  [ main:55857 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:08  [ Thread-17:55857 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:08  [ Thread-17:55858 ] - [ INFO ]  add new order: 1
+2020-06-18 22:54:08  [ Thread-17:55858 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:08  [ Thread-17:55858 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:11  [ main:58735 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:11  [ Thread-18:58735 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:11  [ Thread-18:58735 ] - [ INFO ]  user: 0 vip level become VIP2
+2020-06-18 22:54:11  [ Thread-18:58736 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:11  [ Thread-18:58736 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:19  [ main:66758 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:19  [ Thread-19:66759 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:19  [ Thread-19:66760 ] - [ INFO ]  add new order: 2
+2020-06-18 22:54:19  [ Thread-19:66760 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:19  [ Thread-19:66760 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:22  [ main:70695 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:22  [ Thread-20:70696 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:22  [ Thread-20:70696 ] - [ INFO ]  seller  0 got order list
+2020-06-18 22:54:22  [ Thread-20:70711 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:22  [ Thread-20:70711 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:54:26  [ main:74158 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:54:26  [ Thread-21:74158 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:54:26  [ Thread-21:74159 ] - [ INFO ]  manager got all order list
+2020-06-18 22:54:26  [ Thread-21:74160 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:54:26  [ Thread-21:74160 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:55:15  [ main:123470 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:55:15  [ Thread-22:123471 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:55:15  [ Thread-22:123471 ] - [ INFO ]  user: 0 vip level become VIP1
+2020-06-18 22:55:15  [ Thread-22:123471 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:55:15  [ Thread-22:123472 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:55:17  [ main:125131 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:55:17  [ Thread-23:125131 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:55:17  [ Thread-23:125132 ] - [ INFO ]  add new order: 3
+2020-06-18 22:55:17  [ Thread-23:125132 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:55:17  [ Thread-23:125132 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-18 22:55:19  [ main:126828 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-18 22:55:19  [ Thread-24:126829 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-18 22:55:19  [ Thread-24:126829 ] - [ INFO ]  manager got all order list
+2020-06-18 22:55:19  [ Thread-24:126833 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-18 22:55:19  [ Thread-24:126833 ] - [ INFO ]  disconnect with 127.0.0.1

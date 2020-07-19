@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #00BFFF;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cn.mhj.Controller.SellerController">
+  <children>
+    <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="80.0" text="老八外卖" textAlignment="CENTER" textFill="WHITE" textOverrun="WORD_ELLIPSIS">
+      <font>
+        <Font size="15.0" />
+      </font>
+    </Label>
+    <FlowPane layoutX="549.0" prefHeight="147.0" prefWidth="225.0">
+      <children>
+        <Label alignment="CENTER_RIGHT" prefHeight="35.0" prefWidth="60.0" text="用户名：">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <Label fx:id="username" prefHeight="35.0" prefWidth="165.0">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <Label alignment="CENTER_RIGHT" prefHeight="35.0" prefWidth="60.0" text="店铺名：">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <Label fx:id="name" prefHeight="35.0" prefWidth="165.0">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+      </children>
+    </FlowPane>
+    <Label layoutX="40.0" layoutY="76.0" prefHeight="35.0" prefWidth="80.0" text="已有商品">
+      <font>
+        <Font size="15.0" />
+      </font>
+    </Label>
+    <Label layoutX="289.0" layoutY="76.0" prefHeight="35.0" prefWidth="80.0" text="订单">
+      <font>
+        <Font size="15.0" />
+      </font>
+    </Label>
+    <TableView fx:id="goodsTable" layoutX="40.0" layoutY="111.0" prefHeight="200.0" prefWidth="225.0">
+      <columns>
+        <TableColumn prefWidth="65.0" text="商品名" />
+        <TableColumn prefWidth="55.0" text="价格" />
+        <TableColumn prefWidth="104.0" sortable="false" text="描述" />
+      </columns>
+    </TableView>
+    <FlowPane layoutX="40.0" layoutY="329.0" prefHeight="147.0" prefWidth="225.0">
+      <children>
+        <Label alignment="CENTER_RIGHT" prefHeight="35.0" prefWidth="60.0" text="商品名：">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <TextField fx:id="goodsNameInput" prefHeight="35.0" prefWidth="165.0">
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </TextField>
+        <Label alignment="CENTER_RIGHT" prefHeight="35.0" prefWidth="60.0" text="价格：">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <TextField fx:id="priceInput" prefHeight="35.0" prefWidth="165.0">
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </TextField>
+        <Label alignment="CENTER_RIGHT" prefHeight="35.0" prefWidth="60.0" text="描述：">
+          <font>
+            <Font size="15.0" />
+          </font>
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </Label>
+        <TextField fx:id="descriptionInput" prefHeight="35.0" prefWidth="165.0">
+          <FlowPane.margin>
+            <Insets top="10.0" />
+          </FlowPane.margin>
+        </TextField>
+      </children>
+    </FlowPane>
+    <Button fx:id="newGoodsBtn" layoutX="165.0" layoutY="476.0" mnemonicParsing="false" onAction="#newGoodsBtnClicked" prefHeight="35.0" prefWidth="100.0" text="添加新商品" />
+    <Label layoutX="550.0" layoutY="147.0" prefHeight="35.0" prefWidth="80.0" text="订单内容">
+      <font>
+        <Font size="15.0" />
+      </font>
+    </Label>
+    <TableView fx:id="orderTable" layoutX="549.0" layoutY="181.0" prefHeight="330.0" prefWidth="225.0">
+      <columns>
+        <TableColumn prefWidth="143.0" text="商品" />
+        <TableColumn prefWidth="81.0" text="数量" />
+      </columns>
+    </TableView>
+    <TableView fx:id="orderFormTable" layoutX="288.0" layoutY="111.0" prefHeight="355.0" prefWidth="225.0">
+      <columns>
+        <TableColumn prefWidth="95.0" text="客户" />
+        <TableColumn prefWidth="130.0" text="下单时间" />
+      </columns>
+    </TableView>
+      <Button fx:id="refreshBtn" layoutX="288.0" layoutY="482.0" mnemonicParsing="false" onAction="#refreshBtnClicked" prefHeight="20.0" prefWidth="100.0" text="刷新订单信息" />
+  </children>
+</AnchorPane>

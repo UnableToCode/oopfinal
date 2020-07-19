@@ -1,0 +1,161 @@
+2020-06-16 05:28:37  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:28:48  [ main:11578 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:28:48  [ Thread-0:11666 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:28:48  [ Thread-0:11769 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:32:01  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:32:07  [ main:5542 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:32:07  [ Thread-0:5543 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:32:07  [ Thread-0:5664 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:33:35  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:33:44  [ main:8676 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:33:44  [ Thread-0:8677 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:37:28  [ Thread-0:233032 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:37:31  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:37:41  [ main:10511 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:37:41  [ Thread-0:10512 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:39:01  [ Thread-0:90084 ] - [ INFO ]  register success, new customer:test
+2020-06-16 05:39:17  [ Thread-0:106226 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:39:20  [ Thread-0:109630 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:43:46  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:43:51  [ main:4384 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:43:51  [ Thread-0:4475 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:43:51  [ Thread-0:4581 ] - [ INFO ]  register success, new customer:test
+2020-06-16 05:43:51  [ Thread-0:4589 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:43:51  [ Thread-0:4592 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:43:59  [ main:12389 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:43:59  [ Thread-1:12390 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:43:59  [ Thread-1:12390 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 05:43:59  [ Thread-1:12390 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:43:59  [ Thread-1:12391 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:44:13  [ main:26780 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:44:13  [ Thread-2:26781 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:44:13  [ Thread-2:26782 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:45:16  [ main:90053 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:45:17  [ Thread-3:90157 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:45:17  [ Thread-3:90160 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 05:45:17  [ Thread-3:90160 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:45:17  [ Thread-3:90160 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:45:33  [ main:106157 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:45:33  [ Thread-4:106159 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:45:33  [ Thread-4:106160 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:47:31  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 05:47:34  [ main:2309 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:47:34  [ Thread-0:2310 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:47:34  [ Thread-0:2426 ] - [ INFO ]  register success, new seller:test
+2020-06-16 05:47:34  [ Thread-0:2435 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:47:34  [ Thread-0:2437 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:47:40  [ main:8746 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:47:40  [ Thread-1:8746 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:47:40  [ Thread-1:8749 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 05:47:40  [ Thread-1:8749 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:47:40  [ Thread-1:8750 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 05:48:29  [ main:57621 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 05:48:29  [ Thread-2:57708 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 05:48:29  [ Thread-2:57708 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 05:48:29  [ Thread-2:57709 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 05:48:29  [ Thread-2:57709 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:15:30  [ main:1678967 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:15:30  [ Thread-3:1679063 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:15:30  [ Thread-3:1679065 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:15:30  [ Thread-3:1679066 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:15:30  [ Thread-3:1679066 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:15:35  [ main:1684041 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:15:35  [ Thread-4:1684042 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:15:35  [ Thread-4:1684042 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:15:35  [ Thread-4:1684042 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:15:35  [ Thread-4:1684042 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:15:47  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 06:15:50  [ main:2526 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:15:50  [ Thread-0:2526 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:15:50  [ Thread-0:2647 ] - [ INFO ]  login failed, username not exist
+2020-06-16 06:15:50  [ Thread-0:2658 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:15:50  [ Thread-0:2658 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:15:57  [ main:9241 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:15:57  [ Thread-1:9243 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:15:57  [ Thread-1:9246 ] - [ INFO ]  register success, new customer:test
+2020-06-16 06:15:57  [ Thread-1:9246 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:15:57  [ Thread-1:9247 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:16:00  [ main:12558 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:16:00  [ Thread-2:12559 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:16:00  [ Thread-2:12559 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:16:00  [ Thread-2:12559 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:16:00  [ Thread-2:12560 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:16:30  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 06:16:39  [ main:8878 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:16:39  [ Thread-0:8879 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:16:39  [ Thread-0:8993 ] - [ INFO ]  login failed, username not exist
+2020-06-16 06:16:39  [ Thread-0:9002 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:16:39  [ Thread-0:9003 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:16:43  [ main:12829 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:16:43  [ Thread-1:12829 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:16:43  [ Thread-1:12832 ] - [ INFO ]  register success, new customer:test
+2020-06-16 06:16:43  [ Thread-1:12832 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:16:43  [ Thread-1:12832 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:16:47  [ main:16381 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:16:47  [ Thread-2:16382 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:16:47  [ Thread-2:16382 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:16:47  [ Thread-2:16382 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:16:47  [ Thread-2:16383 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:17:06  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 06:17:16  [ main:9728 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:17:16  [ Thread-0:9730 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:17:21  [ Thread-0:14769 ] - [ INFO ]  register success, new customer:test
+2020-06-16 06:17:21  [ Thread-0:14781 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:17:21  [ Thread-0:14785 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:17:29  [ main:22430 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:17:29  [ Thread-1:22431 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:18:49  [ Thread-1:102078 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:18:49  [ Thread-1:102079 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:18:49  [ Thread-1:102079 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:18:52  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 06:18:55  [ main:3781 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:18:55  [ Thread-0:3781 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:18:55  [ Thread-0:3901 ] - [ INFO ]  register success, new customer:test
+2020-06-16 06:18:55  [ Thread-0:3913 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:18:55  [ Thread-0:3917 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:18:58  [ main:6435 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:18:58  [ Thread-1:6435 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:18:58  [ Thread-1:6437 ] - [ INFO ]  testlogin failed, wrong password
+2020-06-16 06:18:58  [ Thread-1:6437 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:18:58  [ Thread-1:6438 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:19:20  [ main:27987 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:19:20  [ Thread-2:28090 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:19:20  [ Thread-2:28090 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 06:19:20  [ Thread-2:28091 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:19:20  [ Thread-2:28091 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:19:27  [ main:35347 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:19:27  [ Thread-3:35349 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:19:27  [ Thread-3:35349 ] - [ INFO ]  test login success
+2020-06-16 06:19:27  [ Thread-3:35351 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:19:27  [ Thread-3:35352 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:20:54  [ main:0 ] - [ INFO ]  server is running. listen 8080 port.
+2020-06-16 06:20:59  [ main:4720 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:20:59  [ Thread-0:4816 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:20:59  [ Thread-0:4934 ] - [ INFO ]  register success, new customer:test
+2020-06-16 06:20:59  [ Thread-0:4943 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:20:59  [ Thread-0:4946 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:21:02  [ main:8233 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:21:02  [ Thread-1:8235 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:21:02  [ Thread-1:8237 ] - [ INFO ]  test login success
+2020-06-16 06:21:02  [ Thread-1:8238 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:21:02  [ Thread-1:8238 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:21:14  [ main:20153 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:21:14  [ Thread-2:20154 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:21:14  [ Thread-2:20154 ] - [ INFO ]  register failed, username have existed.
+2020-06-16 06:21:14  [ Thread-2:20154 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:21:14  [ Thread-2:20155 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:21:22  [ main:27434 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:21:22  [ Thread-3:27436 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:21:22  [ Thread-3:27438 ] - [ INFO ]  register success, new seller:test1
+2020-06-16 06:21:22  [ Thread-3:27439 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:21:22  [ Thread-3:27439 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:21:25  [ main:30482 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:21:25  [ Thread-4:30483 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:21:25  [ Thread-4:30483 ] - [ INFO ]  test1 login success
+2020-06-16 06:21:25  [ Thread-4:30483 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:21:25  [ Thread-4:30483 ] - [ INFO ]  disconnect with 127.0.0.1
+2020-06-16 06:21:27  [ main:32761 ] - [ INFO ]  127.0.0.1 connected to server
+2020-06-16 06:21:27  [ Thread-5:32761 ] - [ INFO ]  receive request from 127.0.0.1
+2020-06-16 06:21:27  [ Thread-5:32762 ] - [ INFO ]  login failed, username not exist
+2020-06-16 06:21:27  [ Thread-5:32762 ] - [ INFO ]  have processed request from 127.0.0.1
+2020-06-16 06:21:27  [ Thread-5:32762 ] - [ INFO ]  disconnect with 127.0.0.1
